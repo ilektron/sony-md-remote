@@ -1,0 +1,7 @@
+#KiCad files
+*.lck
+simple-md-remote-pcb-backups/
+\#auto_saved_files\#
+
+# vim swap files
+*.swp
